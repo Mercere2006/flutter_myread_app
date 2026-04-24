@@ -137,6 +137,7 @@ class _SignupUiState extends State<SignupUi> {
               SizedBox(height: 10),
               TextField(
                 controller: phoneCtrl,
+                keyboardType: TextInputType.phone,
                 decoration: InputDecoration(
                   hintText: 'Phone No',
                   prefixIcon: Icon(Icons.phone_outlined),
