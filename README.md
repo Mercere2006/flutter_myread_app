@@ -17,8 +17,11 @@
 
 ### เมื่อเข้าสู่ระบบและเพิ่มหนังสือ หนังสือที่เราเพิ่มก็จะดึงข้อมูลไปไว้ที่หน้า Journal เพื่อให้จดบันทึกความรู้สึก
 <kbd><img width="300" alt="ea22d9e8-dc92-4952-b24b-e0efd1918ab5" src="https://github.com/user-attachments/assets/d2bc7de3-3634-4dea-aee3-90da08ff435e" /></kbd>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <kbd><img width="300" alt="151a45a0-04ce-408d-a1ea-fd7e469e0e6b" src="https://github.com/user-attachments/assets/0be6437a-c7bb-4fa8-a8d8-af33a8fbb46b" /></kbd>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <kbd><img width="300" alt="57196ac2-f301-4399-9de6-f6bc26b1a488" src="https://github.com/user-attachments/assets/f18341cb-8e45-4203-bccb-951b31838c9f" /></kbd>
+
 
 
 
