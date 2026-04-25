@@ -30,6 +30,13 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <kbd><img width="300" alt="dde4acd0-ea62-4fa4-9148-67bb6aa20dee" src="https://github.com/user-attachments/assets/7d45f271-c9ad-400b-b582-e3ebb61b8df0" /></kbd>
 
+<br/><br/>
+-----------------------------------------------------------------------------------------------------------------------------------
+### เมื่อบันทึกใน Journal ว่าเริ่มอ่านตอนไหน อ่านจบตอนไหน หนังสือก็จะโชว์ใน Calendar ด้วยเช่นกัน
+<kbd><img width="300" alt="f1c54c0c-afc5-4d50-8889-e2c5931dcb3d (1)" src="https://github.com/user-attachments/assets/c24f5901-6245-4157-9373-758228545eb1" /></kbd>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<kbd><img width="300" alt="7c5d25f9-eb89-425a-a89b-fa7273001100 (1)" src="https://github.com/user-attachments/assets/fa57b255-f820-4a9a-9528-d51e22423c52" /></kbd>
+
 
 
 
